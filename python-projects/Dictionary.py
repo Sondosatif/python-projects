@@ -18,3 +18,4 @@ user_info={
     'hobbies':['discovering','learning','traveling'],
 }
 print(user_info['city'])
+
